@@ -1,0 +1,13 @@
+﻿  Source.c
+d:\dokumenty\stu - fiit\4. sem\aza\projekty\project1\project1\source.c(5): warning C4068: unknown pragma
+d:\dokumenty\stu - fiit\4. sem\aza\projekty\project1\project1\source.c(49): warning C4047: '!=': 'int' differs in levels of indirection from 'void *'
+d:\dokumenty\stu - fiit\4. sem\aza\projekty\project1\project1\source.c(86): warning C4047: '!=': 'int' differs in levels of indirection from 'void *'
+d:\dokumenty\stu - fiit\4. sem\aza\projekty\project1\project1\source.c(121): warning C4047: '=': 'int' differs in levels of indirection from 'void *'
+d:\dokumenty\stu - fiit\4. sem\aza\projekty\project1\project1\source.c(135): warning C4047: '==': 'int' differs in levels of indirection from 'void *'
+d:\dokumenty\stu - fiit\4. sem\aza\projekty\project1\project1\source.c(183): warning C4047: '=': 'int' differs in levels of indirection from 'void *'
+d:\dokumenty\stu - fiit\4. sem\aza\projekty\project1\project1\source.c(184): warning C4047: '=': 'int' differs in levels of indirection from 'void *'
+d:\dokumenty\stu - fiit\4. sem\aza\projekty\project1\project1\source.c(165): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1274): note: see declaration of 'scanf'
+d:\dokumenty\stu - fiit\4. sem\aza\projekty\project1\project1\source.c(169): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1274): note: see declaration of 'scanf'
+  Project1.vcxproj -> D:\Dokumenty\STU - FIIT\4. sem\AZA\projekty\Project1\Debug\Project1.exe
